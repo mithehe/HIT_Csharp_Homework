@@ -6,7 +6,7 @@ namespace BTVN_01
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!. My name is Nguyen Thuy");
+            Console.WriteLine("Hello HIT!. My name is Nguyen Thuy");
         }
     }
 }
